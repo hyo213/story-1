@@ -10,4 +10,5 @@ public class StoryApplication {
 		SpringApplication.run(StoryApplication.class, args);
 	}
 //12345
+	//  두번째 commit
 }
